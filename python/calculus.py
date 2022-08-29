@@ -4,7 +4,7 @@ Descrição: código que possui as principais operações de cálculo.
 
 
 import sys
-sys.path.append( '/Users/Tarso/Desktop/Projeto GitHub/NumMath/Basics/python' )
+sys.path.append( 'path' )
 
 import linalg as la
 

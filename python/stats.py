@@ -4,9 +4,7 @@ Descrição: código que possui as principais operações de cálculo.
 
 
 import sys
-sys.path.append( '/Users/Tarso/Desktop/Projeto GitHub/NumMath/Basics/python' )
-
-import linalg as la
+sys.path.append( 'path' )
 
 
 def mean(v):
